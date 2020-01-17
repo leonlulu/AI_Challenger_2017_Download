@@ -2,7 +2,7 @@
 
 The unofficial download links of the [AI_Challenger_2017 datasets](https://github.com/AIChallenger/AI_Challenger_2017).
 
-Note that these datasets are under [GPL-3.0](https://opensource.org/licenses/GPL-3.0) license, which are **not** availabel for commercial use. 
+Note that these datasets are under [GPL-3.0](https://opensource.org/licenses/GPL-3.0) license, which are **not** available for commercial use. 
 
 ## Download Links (on Baidu Cloud Disk)
 | Dataset | Download link | Password |
