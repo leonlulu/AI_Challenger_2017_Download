@@ -3,8 +3,8 @@
 The unofficial download links of the [AI_Challenger_2017 datasets](https://github.com/AIChallenger/AI_Challenger_2017).
 
 ## Download Links (on Baidu Cloud Disk)
-| Dataset              | Download link                                                 | Password |
-|  ----                | ----                                                          | ----     |
+| Dataset | Download link | Password |
+| :-: | :-: | :-: |
 | Image Chinese Caption (ICC) | [Train](https://pan.baidu.com/s/1YziBPLiU2WmE0j35oaXeKw) / [Val](https://pan.baidu.com/s/1p_0V89d4wfxk-7f7QsU9rg) | asix / dcnn |
 | Human Keypoint Detection (HKD) | [Train](https://pan.baidu.com/s/1soAkYImmQrXnSsxcF-YjxA) / [Val](https://pan.baidu.com/s/16pnIBBRqU16noVlZh-ksYA) | 43om / ti41 |
 | Scene Classification (SC) | [Train](https://pan.baidu.com/s/1ZOJosoulaW2U_E9nHM8NeA) / [Val](https://pan.baidu.com/s/1qHVnZ8T59ioetzVv14-grQ) | vou3 / 5ogk |
